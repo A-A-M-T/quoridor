@@ -1,0 +1,27 @@
+{
+  "state": {
+    "positions": {
+      "1": [
+        7,
+        4
+      ],
+      "2": [
+        1,
+        4
+      ]
+    },
+    "walls_left": {
+      "1": 10,
+      "2": 10
+    },
+    "h_walls": [],
+    "v_walls": [],
+    "current_player": 1,
+    "winner": null
+  },
+  "mode": "Human vs Computer",
+  "difficulty": "Hard",
+  "p1_name": "Player 1",
+  "p2_name": "Computer",
+  "saved_at": "20260510_222427"
+}

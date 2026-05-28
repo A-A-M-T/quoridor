@@ -1,0 +1,32 @@
+{
+  "state": {
+    "positions": {
+      "1": [
+        5,
+        2
+      ],
+      "2": [
+        4,
+        2
+      ]
+    },
+    "walls_left": {
+      "1": 9,
+      "2": 10
+    },
+    "h_walls": [
+      [
+        0,
+        3
+      ]
+    ],
+    "v_walls": [],
+    "current_player": 1,
+    "winner": null
+  },
+  "mode": "Human vs Computer",
+  "difficulty": "Medium",
+  "p1_name": "Player 1",
+  "p2_name": "AI",
+  "saved_at": "20260428_134251"
+}
